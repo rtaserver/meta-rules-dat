@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "keep-alv.google.com",
+        "www.google.com",
+        "www.gstatic.com",
+        "connectivitycheck.gstatic.com",
+        "cp.cloudflare.com",
+        "bing.com",
+        "api.v2fly.org",
+        "id-auth.bypass.id",
+        "hi.bonds.id",
+        "www.msftconnecttest.com",
+        "edge.microsoft.com",
+        "wifi.vivo.com.cn",
+        "detectportal.firefox.com",
+        "connectivitycheck.android.com",
+        "noisyfox.io",
+        "connect.rom.miui.com",
+        "qualcomm.com",
+        "elementary.io",
+        "g.cn",
+        "conn1.oppomobile.com",
+        "conn2.oppomobile.com",
+        "quasar.yandex.net",
+        "captive.apple.com",
+        "connectivity-check.ubuntu.com"
+      ]
+    }
+  ]
+}
