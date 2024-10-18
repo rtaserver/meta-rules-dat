@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "my.zerotier.com",
+        "play-fe.googleapis.com",
+        "play-lh.googleusercontent.com",
+        "play.google.com",
+        "play.googleapis.com",
+        "zerotier.com",
+        "tuyaus.com",
+        "twilio.com",
+        "twiliocdn.com",
+        "gvt1.com"
+      ],
+      "domain_suffix": [
+        ".zerotier.com",
+        ".tuyaus.com",
+        ".twilio.com",
+        ".twiliocdn.com",
+        ".gvt1.com"
+      ]
+    }
+  ]
+}
