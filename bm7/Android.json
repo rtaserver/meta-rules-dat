@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "aida.googleapis.com"
+      ]
+    }
+  ]
+}
