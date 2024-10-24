@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "play-fe.googleapis.com",
+        "play-lh.googleusercontent.com",
+        "play.google.com",
+        "play.googleapis.com",
+        "gvt1.com"
+      ],
+      "domain_suffix": ".gvt1.com"
+    }
+  ]
+}

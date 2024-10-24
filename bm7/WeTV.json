@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "package_name": [
+        "com.tencent.qqlivei18n",
+        "com.tencent.qqlivei18n.us"
+      ]
+    },
+    {
+      "domain": [
+        "iflix-images.akamaized.net",
+        "iflix.com",
+        "v.smtcdns.com",
+        "v.smtcdns.net",
+        "vv.video.qq.com",
+        "wetv.vip",
+        "wetvinfo.com",
+        "wetv.qq.com"
+      ],
+      "ip_cidr": [
+        "150.109.28.51/32"
+      ],
+      "domain_suffix": [
+        ".iflix-images.akamaized.net",
+        ".iflix.com",
+        ".v.smtcdns.com",
+        ".v.smtcdns.net",
+        ".vv.video.qq.com",
+        ".wetv.vip",
+        ".wetvinfo.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "process_name": [
+        "LastPass"
+      ]
+    },
+    {
+      "domain": [
+        "lastpass.com"
+      ],
+      "domain_suffix": [
+        ".lastpass.com"
+      ]
+    }
+  ]
+}
