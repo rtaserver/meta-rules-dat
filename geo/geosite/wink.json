@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "ngenix.net",
+        "restream-media.net",
+        "wink.ru"
+      ],
+      "domain_suffix": [
+        ".ngenix.net",
+        ".restream-media.net",
+        ".wink.ru"
+      ]
+    }
+  ]
+}

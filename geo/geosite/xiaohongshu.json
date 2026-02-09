@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "rednotecdn.com",
+        "xhscdn.com",
+        "xhscdn.net",
+        "xhslink.com",
+        "xiaohongshu.com",
+        "askdiandian.com",
+        "diandianlife.top"
+      ],
+      "domain_suffix": [
+        ".rednotecdn.com",
+        ".xhscdn.com",
+        ".xhscdn.net",
+        ".xhslink.com",
+        ".xiaohongshu.com",
+        ".askdiandian.com",
+        ".diandianlife.top"
+      ]
+    }
+  ]
+}

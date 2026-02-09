@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "ok.ru",
+        "okcdn.ru",
+        "mycdn.me"
+      ],
+      "domain_suffix": [
+        ".ok.ru",
+        ".okcdn.ru",
+        ".mycdn.me"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "ggpht.cn",
+        "amazonprimevideo.cn",
+        "amazonprimevideo.com.cn"
+      ],
+      "domain_suffix": [
+        ".ggpht.cn",
+        ".amazonprimevideo.cn",
+        ".amazonprimevideo.com.cn"
+      ]
+    }
+  ]
+}

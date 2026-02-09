@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": "9game.cn",
+      "domain_suffix": ".9game.cn"
+    }
+  ]
+}

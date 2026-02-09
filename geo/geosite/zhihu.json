@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "zhihu.com",
+        "zhimg.com",
+        "crash2.zhihu.com",
+        "zhihu-web-analytics.zhihu.com"
+      ],
+      "domain_suffix": [
+        ".zhihu.com",
+        ".zhimg.com",
+        ".crash2.zhihu.com",
+        ".zhihu-web-analytics.zhihu.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "imgsmail.ru",
+        "mail.ru"
+      ],
+      "domain_suffix": [
+        ".imgsmail.ru",
+        ".mail.ru"
+      ]
+    }
+  ]
+}

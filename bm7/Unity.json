@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "process_name": [
+        "UnityHub.exe"
+      ]
+    },
+    {
+      "domain": [
+        "multiplay.cn",
+        "unity.cn",
+        "unity.com",
+        "unity3d.com",
+        "unity3dusercontent.com",
+        "unitychina.cn",
+        "unityedu.cn",
+        "unityedu.com",
+        "unityedu.com.cn"
+      ],
+      "domain_suffix": [
+        ".multiplay.cn",
+        ".unity.cn",
+        ".unity.com",
+        ".unity3d.com",
+        ".unity3dusercontent.com",
+        ".unitychina.cn",
+        ".unityedu.cn",
+        ".unityedu.com",
+        ".unityedu.com.cn"
+      ]
+    }
+  ]
+}

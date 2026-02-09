@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "iads.unity3d.com",
+        "unityads.unity3d.com"
+      ],
+      "domain_suffix": [
+        ".iads.unity3d.com",
+        ".unityads.unity3d.com"
+      ]
+    }
+  ]
+}
